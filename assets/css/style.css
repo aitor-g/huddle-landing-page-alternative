@@ -297,7 +297,7 @@ body {
 /* -------------------------------------------------------------------------- */
 /*                               DESKTOP CLASSES                              */
 /* -------------------------------------------------------------------------- */
-@media screen and (min-width: 1125px) {
+@media screen and (min-width: 1150px) {
   .intro {
     padding: 0 80px;
     text-align: left;
